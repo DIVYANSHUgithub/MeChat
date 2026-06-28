@@ -1,0 +1,8 @@
+{
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "editor.autoClosingComments": "languageDefined",
+    "editor.autoClosingBrackets": "always",
+    "editor.cursorBlinking": "blink",
+    "editor.cursorStyle": "line"
+}
